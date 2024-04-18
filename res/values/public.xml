@@ -8763,6 +8763,7 @@
     <public type="layout" name="wideselfie_view" id="0x7f0d01a6" />
     <public type="layout" name="zoom_ratio_toggle_view" id="0x7f0d01a7" />
     <public type="layout" name="zoom_top_tip_layout" id="0x7f0d01a8" />
+    <public type="mipmap" name="launcher_ic_fg_cv" id="0x7f0f0004" />
     <public type="menu" name="vv_workspace_menu" id="0x7f0e0000" />
     <public type="mipmap" name="ic_launcher_camera" id="0x7f0f0000" />
     <public type="mipmap" name="ic_launcher_camera_cv" id="0x7f0f0001" />

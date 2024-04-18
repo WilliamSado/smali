@@ -20,6 +20,7 @@
 
 .field public static final word_photo_size:I = 0x7f0708e9
 
+.field public static final launcher_ic_fg_cv:I = 0x7f0f0004
 
 # direct methods
 .method public constructor <init>()V
