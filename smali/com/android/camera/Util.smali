@@ -17438,7 +17438,7 @@
 
     invoke-virtual {v0, v1}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
 
-    move-result v0
+    const/4 v0, 0x1
 
     if-eqz v0, :cond_1
 
