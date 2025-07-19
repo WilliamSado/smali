@@ -2006,10 +2006,10 @@
 
     invoke-direct {v5, v6, v3}, Landroid/content/Intent;-><init>(Ljava/lang/String;Landroid/net/Uri;)V
 
-    const-string v6, "com.google.android.apps.photos"
+    const-string v6, "android.intent.category.APP_GALLERY"
 
     .line 19
-    invoke-virtual {v5, v6}, Landroid/content/Intent;->setPackage(Ljava/lang/String;)Landroid/content/Intent;
+    invoke-virtual {v5, v6}, Landroid/content/Intent;->addCategory(Ljava/lang/String;)Landroid/content/Intent;
 
     goto :goto_1
 
